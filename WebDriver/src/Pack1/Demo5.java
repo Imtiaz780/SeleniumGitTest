@@ -34,6 +34,7 @@ System.setProperty("webdriver.chrome.driver", "C:\\Selenium Jar\\chromedriver_wi
 			String text = e.getText();
 			System.out.println(text);
 		} 
+		System.out.println("Second Git Test");
 
 
 	}
