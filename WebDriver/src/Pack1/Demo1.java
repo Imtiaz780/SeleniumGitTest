@@ -34,6 +34,7 @@ public class Demo1 {
 		driver.findElement(By.linkText("Logout")).click();
 		
 		System.out.println(label1);
+		System.out.println("github test");
 		driver.close();
 		
 	}
